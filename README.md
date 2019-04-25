@@ -7,3 +7,6 @@ Kobe Bryant is the famous basketball player. We will review his history to get s
       
 # 2. Solution:
      - Analysis and algorithms creations is in SAS Langauage.
+     
+# 3. Algorithm Used:
+     - Logistic Regression
